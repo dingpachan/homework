@@ -1,0 +1,28 @@
+.wrap{
+	width: 700px;
+	margin: auto;
+}
+
+.header{
+	height: 600px;
+	background: green;
+	position: relative;
+}
+
+.header h1{
+	height: 365px;
+	width: 550px;
+	position: absolute;
+	top: 20px;
+	left: 20px;
+}
+
+.header a{
+	height: 365px;
+	width: 550px;
+	display: block;
+	text-indent: -99999px;
+	background: 
+	url('http://www.babylike.com.tw/wp-content/uploads/2013/11/1426540_757242247626171_2086011362_n.jpg')
+	no-repeat;
+}
